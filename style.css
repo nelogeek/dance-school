@@ -140,16 +140,13 @@ body  {
 	-webkit-transform: translate3d(0,0,0);
 	transform: translate3d(0,0,0);
 }
-.telo
-{
-	margin:25%;
-	background-color: rgb(0, 0, 0);
-	margin-left:33% ;
-	margin-right:33% ;
+
+.telo{
+	width: 100%;
 }
 
 
 .fon {
-	background-image: url(/10.png);
+	margin: 13% 0 0 0 ; /*top right bottom left*/
 }
 
