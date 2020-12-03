@@ -1,3 +1,7 @@
+*{
+	margin: 0;
+}
+
 
 body  {
 	background-image: url(/10.png);
@@ -147,6 +151,22 @@ body  {
 
 
 .fon {
-	margin: 13% 0 0 0 ; /*top right bottom left*/
+	margin: 6% 0 0 0 ; /*top right bottom left*/
+	width: 100% ;
 }
 
+.klaksa{
+	background-image: url(/Addons/klaksa2.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	background-position-x: center;
+	background-origin: initial ; 
+}
+.tekst {
+	width: 100%;
+	
+}
+.niz{
+	background-color: black;
+	
+}
